@@ -1,0 +1,21 @@
+name: findingclaims
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - duckdb
+  - requests
+  - beautifulsoup4
+  - lxml
+  - jupyter
+  - notebook
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - plotly
+  - geopandas
+  - tqdm
+  - python-dotenv
+  - openpyxl
